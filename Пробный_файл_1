@@ -1,0 +1,7 @@
+A,B,undefined
+B,A,undefined
+B,C,undefined
+C,B,undefined
+C,D,undefined
+D,C,undefined
+Z,N,2
